@@ -363,15 +363,6 @@
             });
 
 
-
-        function infoStation(data) {
-
-        }
-
-
-
-
-
         function caudalLineal(statsMensuales, diarios) {
 
             const dataGraph = statsMensuales.map(d => ({
@@ -520,11 +511,17 @@
                 yaxis: {
                     autorange: true,
                     range: [86.8700008333, 138.870004167],
-                    type: 'linear'
+                    type: 'linear',
+                    title: 'Caudales (m3/s)',
                 },
-                //   showlegend: false,
-                plot_bgcolor: "#fdfdfd",
-                paper_bgcolor: "#fdfdfd"
+                 legend: {                  
+                    orientation: "h",
+                    yanchor: "bottom",
+                    y: 1.02,
+                    xanchor: "right",
+                    x: 1
+                },
+              
 
             };
 
