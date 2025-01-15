@@ -88,7 +88,11 @@
         </div>
         <div class="row">
             <div class="col">
+              
+
                 <div id="myDiv3" class="seccionElemento"></div>
+               
+             
             </div>
             <div class="col">
                 <div id="myDiv2" class="seccionElemento"></div>
@@ -116,7 +120,7 @@
     <script>
 
 
-        const map = L.map('map', { zoomControl: false }).setView([-34.698900, -64.759700], 4);
+        const map = L.map('map', { zoomControl: false }).setView([-40.57227988868414, -63.950140903474825], 4);
 
 
         L.tileLayer('https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_topo@EPSG%3A3857@png/{z}/{x}/{-y}.png', {
@@ -135,6 +139,13 @@
             iconAnchor: [3.75, 7.5],
             popupAnchor: [0, -7.5]
         });
+
+        var saveIcon = {
+            width: 857.1,
+            height: 1000,
+            path: 'm214-7h429v214h-429v-214z m500 0h72v500q0 8-6 21t-11 20l-157 156q-5 6-19 12t-22 5v-232q0-22-15-38t-38-16h-322q-22 0-37 16t-16 38v232h-72v-714h72v232q0 22 16 38t37 16h465q22 0 38-16t15-38v-232z m-214 518v178q0 8-5 13t-13 5h-107q-7 0-13-5t-5-13v-178q0-8 5-13t13-5h107q7 0 13 5t5 13z m357-18v-518q0-22-15-38t-38-16h-750q-23 0-38 16t-16 38v750q0 22 16 38t38 16h517q23 0 50-12t42-26l156-157q16-15 27-42t11-49z',
+            transform: 'matrix(1 0 0 -1 0 850)'
+        }
 
 
 
@@ -363,6 +374,10 @@
             });
 
 
+
+
+
+
         function caudalLineal(statsMensuales, diarios) {
 
             const dataGraph = statsMensuales.map(d => ({
@@ -396,7 +411,7 @@
                 mode: 'markers',
 
                 type: 'scatter',
-                name: 'Caudal Medio Diario (m3/s)',
+                name: 'Caudal Medio Diario',
                 marker: { color: "rgba(31,119,180,1)", size: 3 }
 
             };
@@ -418,7 +433,7 @@
 
                 mode: "lines",
 
-                name: "Caudal Mínimo Mensual (m3/s)",
+                name: "Caudal Mínimo Mensual",
 
                 type: "scatter"
 
@@ -440,7 +455,7 @@
 
                 mode: "lines",
 
-                name: "Caudal Promedio Mensual (m3/s)",
+                name: "Caudal Promedio Mensual",
 
                 type: "scatter"
 
@@ -463,7 +478,7 @@
 
                 mode: "lines",
 
-                name: "Caudal Máximo Mensual (m3/s)",
+                name: "Caudal Máximo Mensual",
 
                 type: "scatter"
 
@@ -513,23 +528,109 @@
                     range: [86.8700008333, 138.870004167],
                     type: 'linear',
                     title: 'Caudales (m3/s)',
+                    nticks: 10
                 },
-                 legend: {                  
+                //   showlegend: false,
+                legend: {
                     orientation: "h",
                     yanchor: "bottom",
                     y: 1.02,
                     xanchor: "right",
                     x: 1
                 },
-              
+
 
             };
 
             var container = document.querySelector('.myDiv');
-            Plotly.newPlot(container, data, layout, { locale: 'es-AR' });
 
 
 
+
+
+
+            var config = {
+                locale: 'es-AR',
+                displaylogo: false,
+                modeBarButtonsToRemove: ['lasso2d', 'select2d', 'autoScale2d'],
+                modeBarButtonsToAdd: [
+
+                    {
+
+                        name: 'Guardar Mensual CSV',
+
+                        icon: saveIcon,
+
+                        click: function () {
+
+
+
+                            exportToCsv(sortedDataGraph)
+
+                        }
+                    },
+                    {
+
+                        name: 'Guardar Diario CSV',
+
+                        icon: saveIcon,
+
+                        click: function () {
+
+
+
+                            exportToCsv(sortedDiaryGraph)
+
+                        }
+                    }
+
+
+                ],
+            };
+
+
+            Plotly.newPlot(container, data, layout, config);
+
+
+
+        }
+
+
+        function exportToCsv(data) {
+
+
+            let newArray = data
+
+            if (newArray.length === 0) { alert('No hay datos para exportar.'); return }
+
+            const headers = Object.keys(newArray[0]);
+            const csvRows = []; csvRows.push(headers.join(','));
+
+            newArray.forEach(item => {
+                const row = headers.map(header => `"${item[header] || ''}"`);
+
+                csvRows.push(row.join(','))
+            });
+
+            const csvString = csvRows.join('\n');
+            const csvString1 = csvString.replaceAll(',', ';');
+            const csvString2 = csvString1.replaceAll('.', ',');
+
+            const bom = '\uFEFF';
+
+            const blob = new Blob([bom + csvString2], { type: 'text/csv;charset=UTF-8;' });
+
+            const url = URL.createObjectURL(blob);
+
+            const a = document.createElement('a');
+
+            a.href = url;
+
+            a.download = 'data.csv';
+
+            a.click();
+
+            URL.revokeObjectURL(url)
         }
 
 
@@ -599,11 +700,12 @@
             }
 
             var layout = {
-                title: { text: '<b>Estadisticos</b>' },
+                title: { text: '<b>Estadísticos</b>' },
                 yaxis: {
                     autorange: true,
                     showgrid: true,
                     zeroline: true,
+
                 },
                 margin: {
                     l: 40,
@@ -614,49 +716,102 @@
                 showlegend: true
             };
 
-            Plotly.newPlot('myDiv2', arrayBox, layout, { locale: 'es-AR' });
+
+            var config = {
+                locale: 'es-AR',
+                displaylogo: false,
+                modeBarButtonsToRemove: ['lasso2d', 'select2d', 'autoScale2d'],
+
+            };
+
+
+            Plotly.newPlot('myDiv2', arrayBox, layout, config);
         }
 
 
 
         function duracion(data) {
 
-            const totalRegistros = data.length;
 
 
-            const medicionesProcesadas = data
+            const seen = new Set();
+            var medicionNoDuplicados = data
                 .slice()
                 .sort((a, b) => b.Medicion - a.Medicion)
-                .map((d, index) => ({
-                    ...d,
+                .filter(el => {
+                    const duplicate = seen.has(el.Medicion);
+                    seen.add(el.Medicion);
+                    return !duplicate;
+                })
 
-                    Orden: index + 1,
-                    Probabilidad: ((index + 1) / totalRegistros) * 100
-                }));
+            const totalRegistros = medicionNoDuplicados.length;
+            var medicionesProcesadas = medicionNoDuplicados.map((d, index) => ({
+                ...d,
+
+                Orden: index + 1,
+                Probabilidad: ((index + 1) / totalRegistros) * 100
+            }));
 
             var mediciones = medicionesProcesadas.map(d => d.Medicion)
             var prob = medicionesProcesadas.map(d => d.Probabilidad)
 
 
-            var perc = [0, 5, 10, 15, 20, 30, 50, 70, 80, 85, 90, 95, 100]
+            var pdur = [0, 5, 10, 15, 20, 30, 50, 70, 80, 85, 90, 95, 100]
+            var qdur = [20, 50, 100, 150, 200, 300, 500, 700, 800, 850, 900, 950, 1000]
 
-            return [mediciones, prob];
+   
+
+            var text1 = ''
+            var text2 = ''
+            pdur.map(function (e, i) {
+             
+                text1 = text1 + `<th scope="row">${e}</th>`
+
+                text2 = text2 + `<td>${qdur[i]}</td>  `
+
+            });
+
+
+
+            //var duracionTable = document.querySelector(".duracionTable")
+
+            var text = `
+            <table class="table table-striped">
+                    
+                    <tbody class="table-group-divider">
+                    <tr>
+                        ${text1}                                          
+                    </tr>
+                    <tr>
+                        ${text2}                                          
+                    </tr>
+                    
+                    
+                </tbody>
+                  </table>
+         
+                  `
+
+
+            //duracionTable.innerHTML = text
+
+            return [mediciones, prob, medicionesProcesadas];
         }
 
 
-        function curvaDuracion(data) {
+        function curvaDuracion(dataDuracion) {
             var trace1 = {
 
-                x: data[1],
+                x: dataDuracion[1],
 
-                y: data[0],
+                y: dataDuracion[0],
                 fill: 'tozeroy',
                 fillgradient: {
                     type: 'vertical',
                     //colorscale: [[0, 'rgba(31,119,180,0)'], [1, 'rgba(31,119,180,1)']],
                     colorscale: [[0, 'rgba(31,119,180,0)'], [1, 'rgba(12,56,134,1)']],
-                    start: data[0][-1],
-                    stop: data[0][0]
+                    start: dataDuracion[0][-1],
+                    stop: dataDuracion[0][0]
                 },
                 line: { color: 'rgba(12,56,134,1)', width: 1 },
                 hovertemplate: '<i>Caudal</i>: %{y:.2f} m3/s' +
@@ -669,21 +824,51 @@
 
 
             var data = [trace1];
+
             const layout = {
                 title: '<b>Curva Duración</b>',
 
                 yaxis: {
                     title: 'Caudal (m3/s)',
                     hoverformat: '.2f',
+                    nticks: 10
                 },
                 xaxis: {
                     title: 'Probabilidad (%)',
                     hoverformat: '.2f',
+                    nticks: 20
                 },
             };
 
+            var config = {
+                locale: 'es-AR',
+                displaylogo: false,
+                modeBarButtonsToRemove: ['lasso2d', 'select2d', 'autoScale2d'],
+                modeBarButtonsToAdd: [
 
-            Plotly.newPlot('myDiv3', data, layout, { showSendToCloud: true });
+                    {
+
+                        name: 'Guardar Duración CSV',
+
+                        icon: saveIcon,
+
+                        click: function () {
+
+
+
+                            exportToCsv(dataDuracion[2])
+
+                        }
+                    },
+
+                ],
+            };
+
+
+            Plotly.newPlot('myDiv3', data, layout, config);
+
+
+
 
 
         }
@@ -699,6 +884,8 @@
                 anios.push(d.FechaHora.getFullYear());
                 promedios.push(parseFloat(d.Medicion));
             });
+
+
 
 
             const mesesUnicos = [...new Set(meses)];
@@ -734,7 +921,7 @@
                     title: 'Meses',
                     tickvals: mesesUnicos,
                     ticktext: mesesUnicos.map(m => nombresMeses[m]),
-                    autorange:"reversed"
+                    autorange: "reversed"
 
                 },
                 xaxis: {
@@ -747,11 +934,34 @@
                 paper_bgcolor: "#fdfdfd"
             };
 
+            var config = {
+                locale: 'es-AR',
+                displaylogo: false,
+                modeBarButtonsToRemove: ['lasso2d', 'select2d', 'autoScale2d'],
+                modeBarButtonsToAdd: [
+
+                    {
+
+                        name: 'Guardar datos CSV',
+
+                        icon: saveIcon,
+
+                        click: function () {
+
+
+
+                            console.log("guardar datos")
+
+                        }
+                    },
+
+                ],
+            };
 
             const container = document.querySelector('.myDiv4');
 
 
-            Plotly.newPlot(container, [trace], layout);
+            Plotly.newPlot(container, [trace], layout, config);
 
 
         }
