@@ -1,0 +1,4389 @@
+{
+    "d": {
+        "__type": "WebSSRHv2_1.RespuestaMediciones",
+        "RespuestaOK": "True",
+        "MsgErr": "",
+        "Mediciones": [
+            {
+                "FechaHora": "/Date(1625108400000)/",
+                "Medicion": 3.5512712,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625194800000)/",
+                "Medicion": 3.52597547,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625281200000)/",
+                "Medicion": 3.60291862,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625367600000)/",
+                "Medicion": 3.638908,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625454000000)/",
+                "Medicion": 3.62225318,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625540400000)/",
+                "Medicion": 3.63058472,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625626800000)/",
+                "Medicion": 3.5919,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625713200000)/",
+                "Medicion": 3.64338446,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625799600000)/",
+                "Medicion": 3.60707378,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625886000000)/",
+                "Medicion": 3.545927,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1625972400000)/",
+                "Medicion": 3.5084517,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626058800000)/",
+                "Medicion": 3.44307375,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626145200000)/",
+                "Medicion": 3.34789014,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626231600000)/",
+                "Medicion": 3.30820918,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626318000000)/",
+                "Medicion": 3.29903436,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626404400000)/",
+                "Medicion": 3.30255246,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626490800000)/",
+                "Medicion": 3.23619127,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626577200000)/",
+                "Medicion": 3.26611686,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626663600000)/",
+                "Medicion": 3.29603457,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626750000000)/",
+                "Medicion": 3.299944,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626836400000)/",
+                "Medicion": 3.33644533,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1626922800000)/",
+                "Medicion": 3.34384775,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627009200000)/",
+                "Medicion": 3.29450679,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627095600000)/",
+                "Medicion": 3.29122949,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627182000000)/",
+                "Medicion": 3.2755332,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627268400000)/",
+                "Medicion": 3.22280359,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627354800000)/",
+                "Medicion": 3.12521553,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627441200000)/",
+                "Medicion": 3.11741042,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627527600000)/",
+                "Medicion": 3.13956571,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627614000000)/",
+                "Medicion": 3.14617181,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627700400000)/",
+                "Medicion": 3.09730554,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627786800000)/",
+                "Medicion": 3.08299756,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627873200000)/",
+                "Medicion": 3.08553267,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1627959600000)/",
+                "Medicion": 3.0350368,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628046000000)/",
+                "Medicion": 3.02527165,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628132400000)/",
+                "Medicion": 3.0276444,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628218800000)/",
+                "Medicion": 3.03532362,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628305200000)/",
+                "Medicion": 3.01764226,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628391600000)/",
+                "Medicion": 2.98416281,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628478000000)/",
+                "Medicion": 2.96713614,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628564400000)/",
+                "Medicion": 2.94441676,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628650800000)/",
+                "Medicion": 2.928246,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628737200000)/",
+                "Medicion": 2.92040181,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628823600000)/",
+                "Medicion": 2.93764162,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628910000000)/",
+                "Medicion": 2.998229,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1628996400000)/",
+                "Medicion": 3.49482846,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629082800000)/",
+                "Medicion": 2.95178843,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629169200000)/",
+                "Medicion": 2.67553854,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629255600000)/",
+                "Medicion": 2.56080341,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629342000000)/",
+                "Medicion": 2.471302,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629428400000)/",
+                "Medicion": 2.33104634,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629514800000)/",
+                "Medicion": 2.25631428,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629601200000)/",
+                "Medicion": 2.05315328,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629687600000)/",
+                "Medicion": 1.91696191,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629774000000)/",
+                "Medicion": 1.9152106,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629860400000)/",
+                "Medicion": 2.50078034,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1629946800000)/",
+                "Medicion": 2.343757,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630033200000)/",
+                "Medicion": 2.61197233,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630119600000)/",
+                "Medicion": 2.81516957,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630206000000)/",
+                "Medicion": 2.63136125,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630292400000)/",
+                "Medicion": 2.54726744,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630378800000)/",
+                "Medicion": 2.12591648,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630465200000)/",
+                "Medicion": 2.512021,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630551600000)/",
+                "Medicion": 2.24618316,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630638000000)/",
+                "Medicion": 2.40979743,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630724400000)/",
+                "Medicion": 2.02695775,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630810800000)/",
+                "Medicion": 1.86708426,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630897200000)/",
+                "Medicion": 1.88624251,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1630983600000)/",
+                "Medicion": 1.92612445,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631070000000)/",
+                "Medicion": 1.86845767,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631156400000)/",
+                "Medicion": 1.87130833,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631242800000)/",
+                "Medicion": 2.25813317,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631329200000)/",
+                "Medicion": 2.117706,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631415600000)/",
+                "Medicion": 2.38108087,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631502000000)/",
+                "Medicion": 1.924936,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631588400000)/",
+                "Medicion": 1.75543916,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631674800000)/",
+                "Medicion": 1.59927607,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631761200000)/",
+                "Medicion": 1.53914487,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631847600000)/",
+                "Medicion": 1.48921716,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1631934000000)/",
+                "Medicion": 1.31973064,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632020400000)/",
+                "Medicion": 1.31799889,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632106800000)/",
+                "Medicion": 1.37153912,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632193200000)/",
+                "Medicion": 1.26805007,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632279600000)/",
+                "Medicion": 1.20626962,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632366000000)/",
+                "Medicion": 1.2421422,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632452400000)/",
+                "Medicion": 1.26805007,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632538800000)/",
+                "Medicion": 1.30613887,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632625200000)/",
+                "Medicion": 1.301907,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632711600000)/",
+                "Medicion": 1.196305,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632798000000)/",
+                "Medicion": 1.35794735,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632884400000)/",
+                "Medicion": 1.37262416,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1632970800000)/",
+                "Medicion": 1.49245894,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633057200000)/",
+                "Medicion": 1.209154,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633143600000)/",
+                "Medicion": 1.00350857,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633230000000)/",
+                "Medicion": 1.01760685,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633316400000)/",
+                "Medicion": 1.06026053,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633402800000)/",
+                "Medicion": 1.056736,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633489200000)/",
+                "Medicion": 1.1217593,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633575600000)/",
+                "Medicion": 1.18704689,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633662000000)/",
+                "Medicion": 1.31671894,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633748400000)/",
+                "Medicion": 1.44815826,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633834800000)/",
+                "Medicion": 1.42834663,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1633921200000)/",
+                "Medicion": 1.262933,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634007600000)/",
+                "Medicion": 1.28497815,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634094000000)/",
+                "Medicion": 1.16047013,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634180400000)/",
+                "Medicion": 0.88735497,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634266800000)/",
+                "Medicion": 0.79744,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634353200000)/",
+                "Medicion": 0.844709933,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634439600000)/",
+                "Medicion": 0.820679963,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634526000000)/",
+                "Medicion": 0.80906,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634612400000)/",
+                "Medicion": 0.809026659,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634698800000)/",
+                "Medicion": 0.80899334,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634785200000)/",
+                "Medicion": 0.80899334,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634871600000)/",
+                "Medicion": 0.797835052,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1634958000000)/",
+                "Medicion": 1.02728164,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635044400000)/",
+                "Medicion": 0.92416,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635130800000)/",
+                "Medicion": 0.7738634,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635217200000)/",
+                "Medicion": 0.79163,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635303600000)/",
+                "Medicion": 0.862535,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635390000000)/",
+                "Medicion": 0.815265,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635476400000)/",
+                "Medicion": 0.806105,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635562800000)/",
+                "Medicion": 0.764813364,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635649200000)/",
+                "Medicion": 0.69116,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635735600000)/",
+                "Medicion": 0.7610433,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635822000000)/",
+                "Medicion": 0.849815845,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635908400000)/",
+                "Medicion": 0.7578933,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1635994800000)/",
+                "Medicion": 0.8370442,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636081200000)/",
+                "Medicion": 0.83555,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636167600000)/",
+                "Medicion": 0.79163,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636254000000)/",
+                "Medicion": 0.79162997,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636340400000)/",
+                "Medicion": 0.7986208,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636426800000)/",
+                "Medicion": 0.7972833,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636513200000)/",
+                "Medicion": 0.804644167,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636599600000)/",
+                "Medicion": 0.7745767,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636686000000)/",
+                "Medicion": 0.8367233,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636772400000)/",
+                "Medicion": 0.8941267,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636858800000)/",
+                "Medicion": 1.55589414,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1636945200000)/",
+                "Medicion": 1.3898716,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637031600000)/",
+                "Medicion": 2.29652071,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637118000000)/",
+                "Medicion": 1.34136331,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637204400000)/",
+                "Medicion": 1.02476585,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637290800000)/",
+                "Medicion": 1.65690744,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637377200000)/",
+                "Medicion": 1.16911006,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637463600000)/",
+                "Medicion": 1.07228661,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637550000000)/",
+                "Medicion": 0.816569149,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637636400000)/",
+                "Medicion": 0.797115,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637722800000)/",
+                "Medicion": 0.8902483,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637809200000)/",
+                "Medicion": 0.9374708,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637895600000)/",
+                "Medicion": 0.844039142,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1637982000000)/",
+                "Medicion": 0.820535,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638068400000)/",
+                "Medicion": 0.6601217,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638154800000)/",
+                "Medicion": 0.6415191,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638241200000)/",
+                "Medicion": 0.7074025,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638327600000)/",
+                "Medicion": 0.686569154,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638414000000)/",
+                "Medicion": 0.739887536,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638500400000)/",
+                "Medicion": 0.8074875,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638586800000)/",
+                "Medicion": 0.804452538,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638673200000)/",
+                "Medicion": 0.9742842,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638759600000)/",
+                "Medicion": 0.813375831,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638846000000)/",
+                "Medicion": 0.820535,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1638932400000)/",
+                "Medicion": 0.810285866,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639018800000)/",
+                "Medicion": 0.874945,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639105200000)/",
+                "Medicion": 1.22319508,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639191600000)/",
+                "Medicion": 1.72264159,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639278000000)/",
+                "Medicion": 3.26560473,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639364400000)/",
+                "Medicion": 2.50144839,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639450800000)/",
+                "Medicion": 1.90276074,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639537200000)/",
+                "Medicion": 1.276005,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639623600000)/",
+                "Medicion": 1.25444341,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639710000000)/",
+                "Medicion": 1.35524988,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639796400000)/",
+                "Medicion": 1.59498417,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639882800000)/",
+                "Medicion": 1.74676251,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1639969200000)/",
+                "Medicion": 1.40256417,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640055600000)/",
+                "Medicion": 0.9999484,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640142000000)/",
+                "Medicion": 0.877350032,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640228400000)/",
+                "Medicion": 0.820646644,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640314800000)/",
+                "Medicion": 0.790000856,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640401200000)/",
+                "Medicion": 0.7082258,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640487600000)/",
+                "Medicion": 0.633050859,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640574000000)/",
+                "Medicion": 0.530195832,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640660400000)/",
+                "Medicion": 0.5775092,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640746800000)/",
+                "Medicion": 0.7914283,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640833200000)/",
+                "Medicion": 0.7212,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1640919600000)/",
+                "Medicion": 0.6798316,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641006000000)/",
+                "Medicion": 0.551900864,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641092400000)/",
+                "Medicion": 0.468805,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641178800000)/",
+                "Medicion": 0.413344145,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641265200000)/",
+                "Medicion": 0.38516,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641351600000)/",
+                "Medicion": 0.4567625,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641438000000)/",
+                "Medicion": 0.396600038,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641524400000)/",
+                "Medicion": 0.364255816,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641610800000)/",
+                "Medicion": 0.308918327,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641697200000)/",
+                "Medicion": 0.291878343,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641783600000)/",
+                "Medicion": 0.273465,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641870000000)/",
+                "Medicion": 0.269729137,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1641956400000)/",
+                "Medicion": 0.183465838,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642042800000)/",
+                "Medicion": 0.1456,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642129200000)/",
+                "Medicion": 0.03801583,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642215600000)/",
+                "Medicion": 0.00259166677,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642302000000)/",
+                "Medicion": 0.00027,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642388400000)/",
+                "Medicion": 4.83333351e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642474800000)/",
+                "Medicion": 1.41666651e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642561200000)/",
+                "Medicion": 4.16666671e-06,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642647600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642734000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642820400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642906800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1642993200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643079600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643166000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643252400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643338800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643425200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643511600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643598000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643684400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643770800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643857200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1643943600000)/",
+                "Medicion": 0.0006491667,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644030000000)/",
+                "Medicion": 0.34426,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644116400000)/",
+                "Medicion": 0.403652519,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644202800000)/",
+                "Medicion": 0.4888075,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644289200000)/",
+                "Medicion": 0.47419998,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644375600000)/",
+                "Medicion": 0.469095021,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644462000000)/",
+                "Medicion": 0.318878353,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644548400000)/",
+                "Medicion": 0.196466669,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644634800000)/",
+                "Medicion": 0.144165829,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644721200000)/",
+                "Medicion": 0.0271,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644807600000)/",
+                "Medicion": 0.001255,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644894000000)/",
+                "Medicion": 1.91666659e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1644980400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645066800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645153200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645239600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645326000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645412400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645498800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645585200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645671600000)/",
+                "Medicion": 0.849352241,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645758000000)/",
+                "Medicion": 2.59789753,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645844400000)/",
+                "Medicion": 1.93966925,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1645930800000)/",
+                "Medicion": 2.74836683,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646017200000)/",
+                "Medicion": 2.289764,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646103600000)/",
+                "Medicion": 2.057166,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646190000000)/",
+                "Medicion": 1.65752447,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646276400000)/",
+                "Medicion": 1.5563966,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646362800000)/",
+                "Medicion": 1.48056579,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646449200000)/",
+                "Medicion": 1.61918843,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646535600000)/",
+                "Medicion": 1.30403507,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646622000000)/",
+                "Medicion": 1.45723164,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646708400000)/",
+                "Medicion": 1.23625934,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646794800000)/",
+                "Medicion": 1.09653938,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646881200000)/",
+                "Medicion": 0.9763348,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1646967600000)/",
+                "Medicion": 0.8332144,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647054000000)/",
+                "Medicion": 0.775505245,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647140400000)/",
+                "Medicion": 0.6833446,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647226800000)/",
+                "Medicion": 0.618808746,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647313200000)/",
+                "Medicion": 0.5568629,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647399600000)/",
+                "Medicion": 0.482675016,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647486000000)/",
+                "Medicion": 0.449179977,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647572400000)/",
+                "Medicion": 0.411432534,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647658800000)/",
+                "Medicion": 0.398412526,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647745200000)/",
+                "Medicion": 0.348380029,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647831600000)/",
+                "Medicion": 0.4114525,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1647918000000)/",
+                "Medicion": 0.47302,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648004400000)/",
+                "Medicion": 0.435979158,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648090800000)/",
+                "Medicion": 0.46607,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648177200000)/",
+                "Medicion": 0.327765,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648263600000)/",
+                "Medicion": 0.324963331,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648350000000)/",
+                "Medicion": 0.318591654,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648436400000)/",
+                "Medicion": 0.304816663,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648522800000)/",
+                "Medicion": 0.413017482,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648609200000)/",
+                "Medicion": 0.407799155,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648695600000)/",
+                "Medicion": 0.31959334,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648782000000)/",
+                "Medicion": 0.333135,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648868400000)/",
+                "Medicion": 0.4165708,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1648954800000)/",
+                "Medicion": 0.7712338,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649041200000)/",
+                "Medicion": 0.5924353,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649127600000)/",
+                "Medicion": 0.7690399,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649214000000)/",
+                "Medicion": 0.751351833,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649300400000)/",
+                "Medicion": 0.620548069,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649386800000)/",
+                "Medicion": 0.651753962,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649473200000)/",
+                "Medicion": 0.6415271,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649559600000)/",
+                "Medicion": 0.67972827,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649646000000)/",
+                "Medicion": 0.5995202,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649732400000)/",
+                "Medicion": 0.629219949,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649818800000)/",
+                "Medicion": 0.7931081,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649905200000)/",
+                "Medicion": 0.6321602,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1649991600000)/",
+                "Medicion": 0.711843669,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650078000000)/",
+                "Medicion": 0.591288745,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650164400000)/",
+                "Medicion": 0.524297535,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650250800000)/",
+                "Medicion": 0.762699068,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650337200000)/",
+                "Medicion": 0.6114592,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650423600000)/",
+                "Medicion": 0.6271173,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650510000000)/",
+                "Medicion": 0.6979681,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650596400000)/",
+                "Medicion": 0.8103311,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650682800000)/",
+                "Medicion": 0.8619649,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650769200000)/",
+                "Medicion": 0.8145214,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650855600000)/",
+                "Medicion": 0.758816242,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1650942000000)/",
+                "Medicion": 0.7408628,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651028400000)/",
+                "Medicion": 0.6175267,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651114800000)/",
+                "Medicion": 0.423435241,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651201200000)/",
+                "Medicion": 0.3635346,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651287600000)/",
+                "Medicion": 0.486593366,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651374000000)/",
+                "Medicion": 0.6205237,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651460400000)/",
+                "Medicion": 0.607393742,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651546800000)/",
+                "Medicion": 0.605041265,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651633200000)/",
+                "Medicion": 0.620363355,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651719600000)/",
+                "Medicion": 0.6213892,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651806000000)/",
+                "Medicion": 0.7041321,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651892400000)/",
+                "Medicion": 0.798038542,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1651978800000)/",
+                "Medicion": 0.8189678,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652065200000)/",
+                "Medicion": 0.8123256,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652151600000)/",
+                "Medicion": 0.8069628,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652238000000)/",
+                "Medicion": 0.802945256,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652324400000)/",
+                "Medicion": 0.8280614,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652410800000)/",
+                "Medicion": 0.822347462,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652497200000)/",
+                "Medicion": 0.829637647,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652583600000)/",
+                "Medicion": 0.8224842,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652670000000)/",
+                "Medicion": 0.8263469,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652756400000)/",
+                "Medicion": 0.826495647,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652842800000)/",
+                "Medicion": 0.8278388,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1652929200000)/",
+                "Medicion": 1.03745806,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653015600000)/",
+                "Medicion": 1.40841711,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653102000000)/",
+                "Medicion": 1.13789213,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653188400000)/",
+                "Medicion": 1.05954218,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653274800000)/",
+                "Medicion": 0.9891246,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653361200000)/",
+                "Medicion": 0.892957866,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653447600000)/",
+                "Medicion": 0.880482256,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653534000000)/",
+                "Medicion": 0.902106047,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653620400000)/",
+                "Medicion": 0.925810456,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653706800000)/",
+                "Medicion": 0.962241054,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653793200000)/",
+                "Medicion": 1.10821879,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653879600000)/",
+                "Medicion": 1.09369349,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1653966000000)/",
+                "Medicion": 0.998770535,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654052400000)/",
+                "Medicion": 1.0557456,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654138800000)/",
+                "Medicion": 1.10223,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654225200000)/",
+                "Medicion": 1.13876736,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654311600000)/",
+                "Medicion": 1.14693213,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654398000000)/",
+                "Medicion": 1.17043328,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654484400000)/",
+                "Medicion": 1.18061674,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654570800000)/",
+                "Medicion": 1.19355619,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654657200000)/",
+                "Medicion": 1.22107971,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654743600000)/",
+                "Medicion": 1.30484891,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654830000000)/",
+                "Medicion": 1.19181609,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1654916400000)/",
+                "Medicion": 1.1774348,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655002800000)/",
+                "Medicion": 1.22776556,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655089200000)/",
+                "Medicion": 1.24009883,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655175600000)/",
+                "Medicion": 1.22647655,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655262000000)/",
+                "Medicion": 1.21034384,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655348400000)/",
+                "Medicion": 1.22072768,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655434800000)/",
+                "Medicion": 1.220792,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655521200000)/",
+                "Medicion": 1.22292972,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655607600000)/",
+                "Medicion": 1.24775636,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655694000000)/",
+                "Medicion": 1.24814963,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655780400000)/",
+                "Medicion": 1.25199986,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655866800000)/",
+                "Medicion": 1.260046,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1655953200000)/",
+                "Medicion": 1.2965008,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656039600000)/",
+                "Medicion": 1.27769792,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656126000000)/",
+                "Medicion": 1.29122961,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656212400000)/",
+                "Medicion": 1.33764744,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656298800000)/",
+                "Medicion": 1.3267622,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656385200000)/",
+                "Medicion": 1.34474206,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656471600000)/",
+                "Medicion": 1.39012253,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656558000000)/",
+                "Medicion": 1.35736811,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656644400000)/",
+                "Medicion": 1.32319748,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656730800000)/",
+                "Medicion": 1.27257764,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656817200000)/",
+                "Medicion": 1.2607801,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656903600000)/",
+                "Medicion": 1.25729191,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1656990000000)/",
+                "Medicion": 1.28711569,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657076400000)/",
+                "Medicion": 1.36493313,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657162800000)/",
+                "Medicion": 1.40158129,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657249200000)/",
+                "Medicion": 1.53839374,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657335600000)/",
+                "Medicion": 1.486352,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657422000000)/",
+                "Medicion": 1.48086643,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657508400000)/",
+                "Medicion": 1.495547,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657594800000)/",
+                "Medicion": 1.48668289,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657681200000)/",
+                "Medicion": 1.48610973,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657767600000)/",
+                "Medicion": 1.41702068,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657854000000)/",
+                "Medicion": 1.37657535,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1657940400000)/",
+                "Medicion": 1.38629663,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658026800000)/",
+                "Medicion": 1.39673948,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658113200000)/",
+                "Medicion": 1.356799,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658199600000)/",
+                "Medicion": 1.34692252,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658286000000)/",
+                "Medicion": 1.3716644,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658372400000)/",
+                "Medicion": 1.372115,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658458800000)/",
+                "Medicion": 1.36369944,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658545200000)/",
+                "Medicion": 1.35585439,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658631600000)/",
+                "Medicion": 1.38384891,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658718000000)/",
+                "Medicion": 1.4269253,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658804400000)/",
+                "Medicion": 1.419422,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658890800000)/",
+                "Medicion": 1.40721858,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1658977200000)/",
+                "Medicion": 1.37840009,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659063600000)/",
+                "Medicion": 1.3935411,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659150000000)/",
+                "Medicion": 1.38526833,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659236400000)/",
+                "Medicion": 1.50700212,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659322800000)/",
+                "Medicion": 1.79513574,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659409200000)/",
+                "Medicion": 1.91213346,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659495600000)/",
+                "Medicion": 1.92742777,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659582000000)/",
+                "Medicion": 1.97748446,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659668400000)/",
+                "Medicion": 1.9876653,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659754800000)/",
+                "Medicion": 1.95081532,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659841200000)/",
+                "Medicion": 2.16208863,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1659927600000)/",
+                "Medicion": 2.32129145,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660014000000)/",
+                "Medicion": 2.29407787,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660100400000)/",
+                "Medicion": 2.2920773,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660186800000)/",
+                "Medicion": 2.34141421,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660273200000)/",
+                "Medicion": 2.32463551,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660359600000)/",
+                "Medicion": 2.29551363,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660446000000)/",
+                "Medicion": 2.266386,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660532400000)/",
+                "Medicion": 2.22019434,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660618800000)/",
+                "Medicion": 2.3786304,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660705200000)/",
+                "Medicion": 2.18620563,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660791600000)/",
+                "Medicion": 2.10641837,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660878000000)/",
+                "Medicion": 2.139157,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1660964400000)/",
+                "Medicion": 2.35000277,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661050800000)/",
+                "Medicion": 2.11924219,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661137200000)/",
+                "Medicion": 1.58813238,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661223600000)/",
+                "Medicion": 1.47802019,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661310000000)/",
+                "Medicion": 1.39217949,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661396400000)/",
+                "Medicion": 1.32897472,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661482800000)/",
+                "Medicion": 1.30369675,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661569200000)/",
+                "Medicion": 1.53375459,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661655600000)/",
+                "Medicion": 1.266403,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661742000000)/",
+                "Medicion": 1.275188,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661828400000)/",
+                "Medicion": 1.2404263,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1661914800000)/",
+                "Medicion": 1.7927202,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662001200000)/",
+                "Medicion": 1.64188409,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662087600000)/",
+                "Medicion": 1.46035767,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662174000000)/",
+                "Medicion": 1.69370461,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662260400000)/",
+                "Medicion": 1.68165946,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662346800000)/",
+                "Medicion": 1.5662787,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662433200000)/",
+                "Medicion": 1.14028132,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662519600000)/",
+                "Medicion": 1.05323589,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662606000000)/",
+                "Medicion": 1.03871667,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662692400000)/",
+                "Medicion": 0.9979451,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662778800000)/",
+                "Medicion": 1.11112976,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662865200000)/",
+                "Medicion": 1.03744042,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1662951600000)/",
+                "Medicion": 1.22074378,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663038000000)/",
+                "Medicion": 1.10230517,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663124400000)/",
+                "Medicion": 1.04749632,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663210800000)/",
+                "Medicion": 1.02399385,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663297200000)/",
+                "Medicion": 1.00340533,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663383600000)/",
+                "Medicion": 0.9785411,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663470000000)/",
+                "Medicion": 0.941215,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663556400000)/",
+                "Medicion": 0.9550492,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663642800000)/",
+                "Medicion": 0.991934061,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663729200000)/",
+                "Medicion": 0.974871457,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663815600000)/",
+                "Medicion": 0.8926461,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663902000000)/",
+                "Medicion": 0.939768255,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1663988400000)/",
+                "Medicion": 0.923455954,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664074800000)/",
+                "Medicion": 0.91859,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664161200000)/",
+                "Medicion": 0.9345918,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664247600000)/",
+                "Medicion": 0.955196738,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664334000000)/",
+                "Medicion": 1.08008635,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664420400000)/",
+                "Medicion": 0.90007323,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664506800000)/",
+                "Medicion": 0.721216142,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664593200000)/",
+                "Medicion": 0.802013,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664679600000)/",
+                "Medicion": 0.859997869,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664766000000)/",
+                "Medicion": 0.916344762,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664852400000)/",
+                "Medicion": 0.9205075,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1664938800000)/",
+                "Medicion": 0.9006864,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665025200000)/",
+                "Medicion": 0.883901656,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665111600000)/",
+                "Medicion": 0.7292017,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665198000000)/",
+                "Medicion": 0.7195115,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665284400000)/",
+                "Medicion": 0.822985232,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665370800000)/",
+                "Medicion": 1.007681,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665457200000)/",
+                "Medicion": 0.9567639,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665543600000)/",
+                "Medicion": 0.908330262,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665630000000)/",
+                "Medicion": 0.9987945,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665716400000)/",
+                "Medicion": 0.880876958,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665802800000)/",
+                "Medicion": 0.8381681,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665889200000)/",
+                "Medicion": 0.8293972,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1665975600000)/",
+                "Medicion": 0.8087662,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666062000000)/",
+                "Medicion": 0.8764303,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666148400000)/",
+                "Medicion": 1.12170541,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666234800000)/",
+                "Medicion": 1.557417,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666321200000)/",
+                "Medicion": 2.3882525,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666407600000)/",
+                "Medicion": 1.84247971,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666494000000)/",
+                "Medicion": 1.6186856,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666580400000)/",
+                "Medicion": 1.9287709,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666666800000)/",
+                "Medicion": 1.87491786,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666753200000)/",
+                "Medicion": 1.76163471,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666839600000)/",
+                "Medicion": 1.18240106,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1666926000000)/",
+                "Medicion": 1.5570035,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667012400000)/",
+                "Medicion": 1.26807952,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667098800000)/",
+                "Medicion": 0.8744741,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667185200000)/",
+                "Medicion": 0.676980555,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667271600000)/",
+                "Medicion": 0.6952106,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667358000000)/",
+                "Medicion": 0.7964335,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667444400000)/",
+                "Medicion": 0.7955546,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667530800000)/",
+                "Medicion": 0.7527207,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667617200000)/",
+                "Medicion": 0.7304098,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667703600000)/",
+                "Medicion": 0.49502188,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667790000000)/",
+                "Medicion": 0.395339549,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667876400000)/",
+                "Medicion": 0.4050208,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1667962800000)/",
+                "Medicion": 0.484452277,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668049200000)/",
+                "Medicion": 0.6453109,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668135600000)/",
+                "Medicion": 0.7455124,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668222000000)/",
+                "Medicion": 0.8307093,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668308400000)/",
+                "Medicion": 0.876219,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668394800000)/",
+                "Medicion": 1.55113792,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668481200000)/",
+                "Medicion": 1.78972352,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668567600000)/",
+                "Medicion": 2.5980804,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668654000000)/",
+                "Medicion": 2.21283817,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668740400000)/",
+                "Medicion": 1.45339251,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668826800000)/",
+                "Medicion": 1.15056443,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668913200000)/",
+                "Medicion": 1.03143787,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1668999600000)/",
+                "Medicion": 0.851570964,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669086000000)/",
+                "Medicion": 0.8971514,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669172400000)/",
+                "Medicion": 1.07186127,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669258800000)/",
+                "Medicion": 1.414463,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669345200000)/",
+                "Medicion": 0.7375936,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669431600000)/",
+                "Medicion": 0.464624971,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669518000000)/",
+                "Medicion": 0.381298542,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669604400000)/",
+                "Medicion": 0.384784341,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669690800000)/",
+                "Medicion": 0.365207732,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669777200000)/",
+                "Medicion": 0.335964948,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669863600000)/",
+                "Medicion": 0.307515234,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1669950000000)/",
+                "Medicion": 0.313949,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670036400000)/",
+                "Medicion": 0.9384537,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670122800000)/",
+                "Medicion": 1.67944634,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670209200000)/",
+                "Medicion": 1.89129126,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670295600000)/",
+                "Medicion": 2.9915843,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670382000000)/",
+                "Medicion": 4.334052,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670468400000)/",
+                "Medicion": 2.91359568,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670554800000)/",
+                "Medicion": 1.748867,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670641200000)/",
+                "Medicion": 1.347888,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670727600000)/",
+                "Medicion": 1.36345863,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670814000000)/",
+                "Medicion": 2.93143821,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670900400000)/",
+                "Medicion": 1.65925443,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1670986800000)/",
+                "Medicion": 0.7778984,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671073200000)/",
+                "Medicion": 0.422501057,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671159600000)/",
+                "Medicion": 0.323582917,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671246000000)/",
+                "Medicion": 0.315455884,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671332400000)/",
+                "Medicion": 0.571129,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671418800000)/",
+                "Medicion": 0.417907357,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671505200000)/",
+                "Medicion": 0.283734828,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671591600000)/",
+                "Medicion": 0.24236539,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671678000000)/",
+                "Medicion": 0.204186022,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671764400000)/",
+                "Medicion": 0.167116016,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671850800000)/",
+                "Medicion": 0.159985,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1671937200000)/",
+                "Medicion": 0.166328743,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672023600000)/",
+                "Medicion": 0.05613979,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672110000000)/",
+                "Medicion": 0.0738312453,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672196400000)/",
+                "Medicion": 0.314026058,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672282800000)/",
+                "Medicion": 0.2839898,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672369200000)/",
+                "Medicion": 0.302454352,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672455600000)/",
+                "Medicion": 0.183515415,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672542000000)/",
+                "Medicion": 0.038665,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672628400000)/",
+                "Medicion": 0.125450835,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672714800000)/",
+                "Medicion": 0.1143225,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672801200000)/",
+                "Medicion": 0.117221661,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672887600000)/",
+                "Medicion": 0.160604149,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1672974000000)/",
+                "Medicion": 0.0207033344,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673060400000)/",
+                "Medicion": 0.108724169,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673146800000)/",
+                "Medicion": 0.0340141654,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673233200000)/",
+                "Medicion": 0.00213083345,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673319600000)/",
+                "Medicion": 0.0002941667,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673406000000)/",
+                "Medicion": 9.083333e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673492400000)/",
+                "Medicion": 3.25e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673578800000)/",
+                "Medicion": 1.41666651e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673665200000)/",
+                "Medicion": 5.833333e-06,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673751600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673838000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1673924400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674010800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674097200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674183600000)/",
+                "Medicion": 0.000817500055,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674270000000)/",
+                "Medicion": 7.5e-06,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674356400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674442800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674529200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674615600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674702000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674788400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674874800000)/",
+                "Medicion": 0.222581655,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1674961200000)/",
+                "Medicion": 0.170920834,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675047600000)/",
+                "Medicion": 0.0181608312,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675134000000)/",
+                "Medicion": 0.0003775,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675220400000)/",
+                "Medicion": 1.08333334e-05,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675306800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675393200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675479600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675566000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675652400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675738800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675825200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675911600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1675998000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676084400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676170800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676257200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676343600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676430000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676516400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676602800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676689200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676775600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676862000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1676948400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677034800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677121200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677207600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677294000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677380400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677466800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677553200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677639600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677726000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677812400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677898800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1677985200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678071600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678158000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678244400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678330800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678417200000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678503600000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678590000000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678676400000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678762800000)/",
+                "Medicion": 0,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678849200000)/",
+                "Medicion": 4.63609,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1678935600000)/",
+                "Medicion": 13.2992887,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679022000000)/",
+                "Medicion": 9.178806,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679108400000)/",
+                "Medicion": 7.79152346,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679194800000)/",
+                "Medicion": 5.62082672,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679281200000)/",
+                "Medicion": 5.887847,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679367600000)/",
+                "Medicion": 5.228139,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679454000000)/",
+                "Medicion": 4.75412035,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679540400000)/",
+                "Medicion": 3.92523527,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679626800000)/",
+                "Medicion": 4.25373554,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679713200000)/",
+                "Medicion": 4.97350931,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679799600000)/",
+                "Medicion": 6.99872446,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679886000000)/",
+                "Medicion": 5.10279846,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1679972400000)/",
+                "Medicion": 3.52976561,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680058800000)/",
+                "Medicion": 3.55280447,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680145200000)/",
+                "Medicion": 3.68468165,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680231600000)/",
+                "Medicion": 3.246691,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680318000000)/",
+                "Medicion": 2.54968238,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680404400000)/",
+                "Medicion": 2.18593645,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680490800000)/",
+                "Medicion": 1.725673,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680577200000)/",
+                "Medicion": 1.47716057,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680663600000)/",
+                "Medicion": 1.30893636,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680750000000)/",
+                "Medicion": 0.7576975,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680836400000)/",
+                "Medicion": 0.9340159,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1680922800000)/",
+                "Medicion": 0.543714166,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681009200000)/",
+                "Medicion": 0.453842282,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681095600000)/",
+                "Medicion": 0.914773941,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681182000000)/",
+                "Medicion": 0.9046589,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681268400000)/",
+                "Medicion": 0.879150569,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681354800000)/",
+                "Medicion": 0.939903259,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681441200000)/",
+                "Medicion": 1.035864,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681527600000)/",
+                "Medicion": 1.02709639,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681614000000)/",
+                "Medicion": 0.597396135,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681700400000)/",
+                "Medicion": 1.0007292,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681786800000)/",
+                "Medicion": 1.55790281,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681873200000)/",
+                "Medicion": 0.800058246,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1681959600000)/",
+                "Medicion": 0.447885036,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682046000000)/",
+                "Medicion": 0.280082256,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682132400000)/",
+                "Medicion": 0.258757472,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682218800000)/",
+                "Medicion": 0.1839475,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682305200000)/",
+                "Medicion": 0.181430832,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682391600000)/",
+                "Medicion": 0.160158321,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682478000000)/",
+                "Medicion": 0.123033747,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682564400000)/",
+                "Medicion": 0.09307167,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682650800000)/",
+                "Medicion": 0.0630485341,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682737200000)/",
+                "Medicion": 0.036507085,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682823600000)/",
+                "Medicion": 0.05448875,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682910000000)/",
+                "Medicion": 0.138077512,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1682996400000)/",
+                "Medicion": 0.2593756,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683082800000)/",
+                "Medicion": 0.392103344,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683169200000)/",
+                "Medicion": 0.420237064,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683255600000)/",
+                "Medicion": 0.392071873,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683342000000)/",
+                "Medicion": 0.30965358,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683428400000)/",
+                "Medicion": 0.26921168,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683514800000)/",
+                "Medicion": 0.262480021,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683601200000)/",
+                "Medicion": 0.294784129,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683687600000)/",
+                "Medicion": 0.3413608,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683774000000)/",
+                "Medicion": 0.178998351,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683860400000)/",
+                "Medicion": 0.194429159,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1683946800000)/",
+                "Medicion": 0.185854167,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684033200000)/",
+                "Medicion": 0.2192325,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684119600000)/",
+                "Medicion": 0.141681656,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684206000000)/",
+                "Medicion": 0.0836124942,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684292400000)/",
+                "Medicion": 0.16595751,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684378800000)/",
+                "Medicion": 0.4081925,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684465200000)/",
+                "Medicion": 0.354325,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684551600000)/",
+                "Medicion": 0.514295,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684638000000)/",
+                "Medicion": 0.5036492,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684724400000)/",
+                "Medicion": 0.2802658,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684810800000)/",
+                "Medicion": 0.256916672,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684897200000)/",
+                "Medicion": 0.220995009,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1684983600000)/",
+                "Medicion": 0.216396675,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685070000000)/",
+                "Medicion": 0.181409165,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685156400000)/",
+                "Medicion": 0.1899775,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685242800000)/",
+                "Medicion": 0.248604178,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685329200000)/",
+                "Medicion": 0.248060837,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685415600000)/",
+                "Medicion": 0.228518337,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685502000000)/",
+                "Medicion": 0.239885837,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685588400000)/",
+                "Medicion": 0.220374182,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685674800000)/",
+                "Medicion": 0.123563342,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685761200000)/",
+                "Medicion": 0.0830525,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685847600000)/",
+                "Medicion": 0.0531275,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1685934000000)/",
+                "Medicion": 0.0402566679,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686020400000)/",
+                "Medicion": 0.0255816653,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686106800000)/",
+                "Medicion": 0.0153408339,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686193200000)/",
+                "Medicion": 0.008825,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686279600000)/",
+                "Medicion": 0.00457666675,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686366000000)/",
+                "Medicion": 0.0111375,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686452400000)/",
+                "Medicion": 0.0320175,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686538800000)/",
+                "Medicion": 0.059216667,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686625200000)/",
+                "Medicion": 0.0757024959,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686711600000)/",
+                "Medicion": 0.2603767,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686798000000)/",
+                "Medicion": 0.121590838,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686884400000)/",
+                "Medicion": 0.09738416,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1686970800000)/",
+                "Medicion": 0.0471616648,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687057200000)/",
+                "Medicion": 0.0427083336,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687143600000)/",
+                "Medicion": 0.03852667,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687230000000)/",
+                "Medicion": 0.0372775,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687316400000)/",
+                "Medicion": 0.0275266655,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687402800000)/",
+                "Medicion": 0.0128708333,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687489200000)/",
+                "Medicion": 0.008839167,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687575600000)/",
+                "Medicion": 0.00327000022,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687662000000)/",
+                "Medicion": 0.000837500033,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687748400000)/",
+                "Medicion": 0.00109999988,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687834800000)/",
+                "Medicion": 0.0022824998,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1687921200000)/",
+                "Medicion": 0.009683333,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1688007600000)/",
+                "Medicion": 0.0132691674,
+                "Calificador": "D",
+                "Validado": true
+            },
+            {
+                "FechaHora": "/Date(1688094000000)/",
+                "Medicion": 0.0107999993,
+                "Calificador": "D",
+                "Validado": true
+            }
+        ]
+    }
+}
